@@ -26,7 +26,6 @@ I’m sharing what I’ve learned, soaking up knowledge from the tech world, and
 
 ## 🧠 Quote of the day:
 > “If you don’t have a plan, you’ll live like gum stuck to a shoe: wherever you get stepped on, that’s where you’ll stay.”  
-> — Andrés Gutiérrez
 
 ---
 
