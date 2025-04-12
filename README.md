@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola, soy Andrés Gutiérrez! 💪🇲🇽
 
-<!--
-**anguve/anguve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Soy un apasionado por el desarrollo personal, las finanzas saludables y también por el mundo del software!
 
-Here are some ideas to get you started:
+## 👨‍🏫 ¿Quién soy?
+Soy conferencista, autor, coach financiero y un guerrero que ayuda a la gente a salir del hoyo. Y ahora también ando echándole ganas en el mundo del desarrollo de software, porque así como con el dinero, **el código también puede cambiar tu vida**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Lo que estoy haciendo ahora
+Estoy compartiendo mi experiencia, aprendiendo de los cracks del software, y aplicando mis principios de constancia, enfoque y disciplina para seguir creciendo en esta industria.
+
+## 🚀 Estoy aprendiendo...
+- A ser un mejor programador
+- A construir sistemas que sirvan, que aporten valor real
+- Y a no rendirme, porque esto es como salir de deudas: **con paciencia, enfoque y disciplina** se logra
+
+---
+
+## 🧰 Herramientas y tecnologías que me laten:
+- JavaScript / TypeScript
+- Node.js / NestJS
+- React / Angular
+- Docker / NATS
+- Arquitectura Hexagonal, DDD y SOLID
+
+---
+
+## 🧠 Frase del día:
+> “El que no tiene plan, vive como chicle en suela de zapato: donde lo pisen, ahí se queda.”  
+> — Andrés Gutiérrez
+
+---
+
+## 📫 ¿Quieres aprender más de finanzas, vida o desarrollo?
+Búscame. Estoy para ayudarte. ¡Ánimo campeón! 💥
