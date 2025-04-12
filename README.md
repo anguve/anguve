@@ -1,34 +1,34 @@
-# ¡Hola, soy Andrés Gutiérrez! 💪🇲🇽
+# Hey there, I’m Andrés Gutiérrez! 
 
-¡Soy un apasionado por el desarrollo personal, las finanzas saludables y también por el mundo del software!
+I’m passionate about personal growth, healthy finances, and now—software development too!
 
-## 👨‍🏫 ¿Quién soy?
-Soy conferencista, autor, coach financiero y un guerrero que ayuda a la gente a salir del hoyo. Y ahora también ando echándole ganas en el mundo del desarrollo de software, porque así como con el dinero, **el código también puede cambiar tu vida**.
+## 👨‍🏫 Who am I?
+I’m a speaker, author, financial coach, and a warrior helping people get out of the hole. And just like with money, I believe **code can change your life** when you approach it with discipline and purpose.
 
-## 💼 Lo que estoy haciendo ahora
-Estoy compartiendo mi experiencia, aprendiendo de los cracks del software, y aplicando mis principios de constancia, enfoque y disciplina para seguir creciendo en esta industria.
+## 💼 What I’m doing now
+I’m sharing what I’ve learned, soaking up knowledge from the tech world, and applying the same principles of consistency, focus, and intentional growth to thrive in software development.
 
-## 🚀 Estoy aprendiendo...
-- A ser un mejor programador
-- A construir sistemas que sirvan, que aporten valor real
-- Y a no rendirme, porque esto es como salir de deudas: **con paciencia, enfoque y disciplina** se logra
+## 🚀 What I’m learning…
+- Becoming a better developer, step by step
+- Building real, valuable systems
+- And staying disciplined—because learning to code is like getting out of debt: **slow, steady, focused progress**
 
 ---
 
-## 🧰 Herramientas y tecnologías que me laten:
+## 🧰 Tools & technologies I’m working with:
 - JavaScript / TypeScript
 - Node.js / NestJS
 - React / Angular
 - Docker / NATS
-- Arquitectura Hexagonal, DDD y SOLID
+- Hexagonal Architecture, DDD, SOLID principles
 
 ---
 
-## 🧠 Frase del día:
-> “El que no tiene plan, vive como chicle en suela de zapato: donde lo pisen, ahí se queda.”  
+## 🧠 Quote of the day:
+> “If you don’t have a plan, you’ll live like gum stuck to a shoe: wherever you get stepped on, that’s where you’ll stay.”  
 > — Andrés Gutiérrez
 
 ---
 
-## 📫 ¿Quieres aprender más de finanzas, vida o desarrollo?
-Búscame. Estoy para ayudarte. ¡Ánimo campeón! 💥
+## 📫 Want to talk life, money, or code?
+Let’s connect. I’m here to help. **Let’s go, champion!** 💥
